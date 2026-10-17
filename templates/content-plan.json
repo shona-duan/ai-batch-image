@@ -1,0 +1,47 @@
+{
+  "task_id": "",
+  "product_id": "",
+  "platform": "",
+  "product_category": "",
+  "sets": {
+    "A": {
+      "type": "",
+      "size": "",
+      "items": [
+        {
+          "seq": 1,
+          "selling_point": "",
+          "copy_text": "",
+          "ref_image": "",
+          "ref_note": "",
+          "style_tags": {
+            "视觉风格": "",
+            "营销语气": "",
+            "背景风格": "",
+            "排版方向": ""
+          }
+        }
+      ]
+    },
+    "B": {
+      "type": "",
+      "size": "",
+      "depends_on": "",
+      "items": [
+        {
+          "seq": 1,
+          "expands_from": "",
+          "detail_angle": "",
+          "ref_image": "",
+          "ref_note": "",
+          "style_tags": {
+            "视觉风格": "",
+            "营销语气": "",
+            "背景风格": "",
+            "排版方向": ""
+          }
+        }
+      ]
+    }
+  }
+}
