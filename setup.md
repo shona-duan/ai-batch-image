@@ -27,7 +27,9 @@ config.json 不存在时执行本流程。
       "endpoint_id": "用户填的endpoint"
     },
     "deepseek": {
-      "api_key": "用户填的key"
+      "api_key": "用户填的key",
+      "base_url": "https://api.deepseek.com/v1",
+      "model": "deepseek-chat"
     }
   },
   "schedule": {
